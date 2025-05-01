@@ -1,0 +1,5 @@
+[project]
+name = "awesome-claude-connectors"
+version = "0.1.0"
+description = "A comprehensive directory of Anthropic's Claude Connectors catalog: 4,675 MCP integrations across both catalog surfaces (curated web directory + in-app catalog incl. community and desktop-extension connectors), plus 43 held pending vendor verification, with per-entry descriptions and use cases."
+requires-python = ">=3.10"
